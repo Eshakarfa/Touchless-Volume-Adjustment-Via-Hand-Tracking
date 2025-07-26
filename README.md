@@ -8,3 +8,5 @@ Control your system volume with just your fingers using real-time hand tracking 
 *📊 Volume percentage and bar overlay on screen
 *🧠 Smooth user interface with FPS display
 *✅ Touchless, intuitive system interaction
+# TECHNOLOGIES USED
+*https://www.python.org/-
